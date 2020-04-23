@@ -9,6 +9,7 @@ Out of more than 80,000 candidates in France, 3,000 were selected to complete a 
 Visit: <a href ="https://www.42sp.org.br/">42 Sao Paulo - Brazil</a>
 
 <h3>Piscine</h3>
+
 ``The Piscine is the final trial that will grant you your admission to 42. It is not a swimming trial (Piscine is the French word for “swimming pool”) but a deep dive into the code pool that will let us pick the most motivated and the most eligible candidates for our coding school.
 The Piscine is an opportunity: you will be able to spend one month at the 42 campus so you can discover the school, its unique teaching methods, and what computer programing is all about.
 During those four weeks — weekends included — you will work on training exercises, computer projects, take tests, and you will get to know the other applicants. The Piscine program starts from scratch and requires no preliminary knowledge — just a mouse and a keyboard.``
