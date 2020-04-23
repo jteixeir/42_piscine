@@ -1,7 +1,7 @@
 <h1>42 École</h1>
 
-42 is a private, nonprofit and tuition-free computer programming school created and funded by French billionaire Xavier Niel (founder of the telecommunication company Illiad) with several partners including Nicolas Sadirac (previous director-general of the Epitech school in France), Kwame Yamgnane and Florian Bucher (former executives of Epitech). The school was first opened in Paris in 2013.
-Out of more than 80,000 candidates in France, 3,000 were selected to complete a four-week intensive computer programming bootcamp called piscine (swimming-pool). Any person older than 18 can register for the piscine after completing the logical reasoning tests on the website. 
+``42 is a private, nonprofit and tuition-free computer programming school created and funded by French billionaire Xavier Niel (founder of the telecommunication company Illiad) with several partners including Nicolas Sadirac (previous director-general of the Epitech school in France), Kwame Yamgnane and Florian Bucher (former executives of Epitech). The school was first opened in Paris in 2013.
+Out of more than 80,000 candidates in France, 3,000 were selected to complete a four-week intensive computer programming bootcamp called piscine (swimming-pool). Any person older than 18 can register for the piscine after completing the logical reasoning tests on the website. ``
 
 <b>42 around the world</b>
 ![Screenshot from 2020-04-23 19-38-35](https://user-images.githubusercontent.com/61021800/80156347-101cc480-859a-11ea-8d1a-705c3a336a40.png)
@@ -9,11 +9,13 @@ Out of more than 80,000 candidates in France, 3,000 were selected to complete a 
 Visit: <a href ="https://www.42sp.org.br/">42 Sao Paulo - Brazil</a>
 
 <h3>Piscine</h3>
-The Piscine is the final trial that will grant you your admission to 42. It is not a swimming trial (Piscine is the French word for “swimming pool”) but a deep dive into the code pool that will let us pick the most motivated and the most eligible candidates for our coding school.
+``The Piscine is the final trial that will grant you your admission to 42. It is not a swimming trial (Piscine is the French word for “swimming pool”) but a deep dive into the code pool that will let us pick the most motivated and the most eligible candidates for our coding school.
 The Piscine is an opportunity: you will be able to spend one month at the 42 campus so you can discover the school, its unique teaching methods, and what computer programing is all about.
-During those four weeks — weekends included — you will work on training exercises, computer projects, take tests, and you will get to know the other applicants. The Piscine program starts from scratch and requires no preliminary knowledge — just a mouse and a keyboard.
+During those four weeks — weekends included — you will work on training exercises, computer projects, take tests, and you will get to know the other applicants. The Piscine program starts from scratch and requires no preliminary knowledge — just a mouse and a keyboard.``
+
 
 This is an overview of my grades during this time:
+
 Project     | What is about?  | Status
 :-------:   | :--------------:| :------:
 I accept    | ...             | :star2: 100%
@@ -50,7 +52,7 @@ Final Exam  | ...             | :anger: 24%
 MIT License
 
 <h4>Acknowledgments</h4>
-Shell Script
-Coding logic
-C language
+- Shell Script
+- Logic
+- C language
 
