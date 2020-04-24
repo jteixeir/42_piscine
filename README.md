@@ -17,13 +17,13 @@ During those four weeks — weekends included — you will work on training exer
 
 This is an overview of my grades during this time:
 
-Project     | What is about?  | Status
-:-------:   | :--------------:| :------:
-I accept    | ...             | :star2: 100%
-Shell 00    | ...             | :star2: 100%
-Shell 01    | ...             | :star2: 100%
-C 00        | ...             | :star2: 85%
-C 01        | ...             | :star2: 70%
+Project     | What is about?                              | Status
+:-------:   | :--------------:                            | :------:
+I accept    | Git and Vogsphere essentials                | :star2: 100%
+Shell 00    | Basic Shell Script commands                 | :star2: 100%
+Shell 01    | Intermediate Shell Script commands          | :star2: 100%
+C 00        | Unistd Lib, mainly write function usage     | :star2: 85%
+C 01        | Decision structure intro (if, else, while)  | :star2: 70%
 C 02        | ...             | :star2: 65%
 C 03        | ...             | :star2: 75%
 C 04        | ...             | :star2: 77%
@@ -47,13 +47,21 @@ Final Exam  | ...             | :anger: 24%
 
 
 <h4>Authors</h4>
+
 <a href="https://github.com/jteixeir">Jess Teixeira</a>
 
+<a href="https://github.com/juanlamarao">Juan Lamarão, Rush 00 colleague</a>
+
+<a href="https://github.com/mmirabetti">Mauricio Mirabetti, Rush 00 colleague</a>
+
 <h4>License</h4>
-MIT License
+<a href="https://github.com/jteixeir/42_piscine/blob/master/LICENSE">MIT License</a>
 
 <h4>Acknowledgments</h4>
-- Shell Script
-- Logic
-- C language
 
+* Shell Script
+* Logic Fundamentals
+* C language
+* Vim
+* Git
+* Vogsphere
