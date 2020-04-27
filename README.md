@@ -59,9 +59,15 @@ Final Exam  | ...             | :anger: 24%
 
 <h4>Acknowledgments</h4>
 
+* Unix operating system
+* Vim
 * Shell Script
 * Logic Fundamentals
 * C language
-* Vim
 * Git
 * Vogsphere
+
+<h4>Comments</h4>
+If you are preparing your self to 42 piscine, take a look at this tutorial: <a href ="https://www.youtube.com/watch?v=CPjZKsUYSXg&list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2&index=2">Caleb Curry Channel - C Tutorial</a>
+
+Was really helpful to me. :blush:
